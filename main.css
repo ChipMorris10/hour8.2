@@ -1,0 +1,21 @@
+a {
+  font-family: Verdana;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:link {
+  color: #6479a0;
+}
+
+a:visited {
+  color: #cccccc;
+}
+
+a:hover {
+  color: #e03a3e;
+}
+
+a:active {
+  color: #e03a3e;
+}
